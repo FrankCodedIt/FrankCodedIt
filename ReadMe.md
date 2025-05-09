@@ -19,17 +19,11 @@ Hey there! I'm an Information Systems grad who loves turning coffee into code an
 # 📊 GitHub Stats:
 # My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankCodedIt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=FrankCodedIt&theme=dark&hide_border=false" alt="Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankCodedIt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrankCodedIt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="300" style="margin: 10px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=FrankCodedIt&theme=dark&hide_border=false" alt="Streak Stats" width="300" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankCodedIt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="300" style="margin: 10px;" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FrankCodedIt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
