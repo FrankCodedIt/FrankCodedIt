@@ -41,7 +41,7 @@ Hey there! I'm an Information Systems grad 🎓 who loves turning coffee into co
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=FrankCodedIt&icon=2&color=1)](https://visitcount.itsvg.in)
+
+![](https://visitcount.itsvg.in/api?id=FrankCodedIt&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ![Footer](./GitHub_Footer.png)
