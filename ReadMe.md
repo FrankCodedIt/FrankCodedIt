@@ -1,7 +1,7 @@
 ![Banner](./Frank_Github_Banner.png)
 
 # 📢  About Me:
-Hey there! I'm an Information Systems grad who loves turning coffee into code and big ideas into working software. Whether it's crafting slick user interfaces or wiring up the backend magic, I enjoy solving real-world problems with tech. <br/>
+Hey there! I'm an Information Systems grad 🎓 who loves turning coffee into code and big ideas into working software. Whether it's crafting slick user interfaces or wiring up the backend magic, I enjoy solving real-world problems with tech. <br/>
 <br/>
 💻 What I'm good at:<br/>
     - Writing clean code in JavaScript, Python, Java, C#, and more<br/>
@@ -9,6 +9,10 @@ Hey there! I'm an Information Systems grad who loves turning coffee into code an
     - Getting things done (bonus points if it's in an Agile sprint)<br/>
     - Googling error messages like a pro<br/>
 <br/>
+
+
+⚡ **Fun Fact**: I can code, brew coffee, and play Fortnite 🎮 at the same time. <br/>
+
 🔗 I'm currently exploring the interesting field of Data Engineering. Thus, I'm always up for learning something new, collaborating on projects,or just geeking out over code. If you've got a project, an idea, or a bug you can't squash - hit me up! 
  
 ## 🌐 Socials:
@@ -34,7 +38,11 @@ Hey there! I'm an Information Systems grad who loves turning coffee into code an
 ![](https://github-profile-trophy.vercel.app/?username=FrankCodedIt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FrankCodedIt&icon=2&color=1)](https://visitcount.itsvg.in)
+
+![Footer](./GitHub_Footer.png)
