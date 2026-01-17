@@ -49,4 +49,4 @@ Hey there! I'm an Information Systems grad 🎓 who loves turning coffee into co
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </p>
 
-![Footer](./GitHub_Footer)
+![Footer](./GitHub_Footer.png)
