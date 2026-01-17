@@ -1,4 +1,4 @@
-![Banner](./GitHub_Header.gif)
+![Banner](./GitHub Banner.png)
 
 # 📢  About Me:
 Hey there! I'm an Information Systems grad 🎓 who loves turning coffee into code and big ideas into working software. Whether it's crafting slick user interfaces or wiring up the backend magic, I enjoy solving real-world problems with tech. <br/>
@@ -49,4 +49,4 @@ Hey there! I'm an Information Systems grad 🎓 who loves turning coffee into co
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </p>
 
-![Footer](./GitHub_Footer.gif)
+![Footer](./GitHub Footer)
